@@ -262,7 +262,7 @@ This project demonstrates:
 ## Preeti Rajakumar Kotabagi
 
 Computer Science Engineering Student  
-MERN Stack Developer | Graph Algorithms Enthusiast
+Aspiring MERN Stack Developer | Graph Algorithms Enthusiast
 
 ---
 

@@ -125,7 +125,7 @@ Suggests friends based on:
 
 ## Home Page
 
-_Add Screenshot Here_
+<img src="./screenshots/homepage1.png" width="900">
 
 ---
 

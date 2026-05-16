@@ -53,9 +53,8 @@ Backend (Node.js + Express.js)
 MongoDB Database
 ```
 
-causes markdown rendering confusion if pasted incorrectly.
-
-🙂
+```md
+# Graph Algorithms Used
 
 ---
 

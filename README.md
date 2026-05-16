@@ -125,33 +125,33 @@ Suggests friends based on:
 
 ## Home Page
 
-<img src="./screenshots/homepage1.png" width="900">
-<img src="./screenshots/homepage2.png" width="900">
-<img src="./screenshots/homepage3.png" width="900">
+<img src="./screenshots/homepage1.png" width="700">
+<img src="./screenshots/homepage2.png" width="700">
+<img src="./screenshots/homepage3.png" width="700">
 
 ---
 
 ## Social Graph Visualization
 
-<img src="./screenshots/graphView.png" width="900">
+<img src="./screenshots/graphView.png" width="700">
 
 ---
 
 ## Analytics Dashboard
 
-<img src="./screenshots/networkAnalysis.png" width="900">
+<img src="./screenshots/networkAnalysis.png" width="700">
 
 ---
 
 ## Friend Recommendation Module
 
-<img src="./screenshots/friendsRecommendation.png" width="900">
+<img src="./screenshots/friendsRecommendation.png" width="700">
 
 ---
 
 ## Graph Density Metrics
 
-<img src="./screenshots/graphDensity.png" width="900">
+<img src="./screenshots/graphDensity.png" width="700">
 
 ---
 

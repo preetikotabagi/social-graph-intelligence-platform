@@ -126,30 +126,32 @@ Suggests friends based on:
 ## Home Page
 
 <img src="./screenshots/homepage1.png" width="900">
+<img src="./screenshots/homepage2.png" width="900">
+<img src="./screenshots/homepage3.png" width="900">
 
 ---
 
 ## Social Graph Visualization
 
-_Add Screenshot Here_
+<img src="./screenshots/graphView.png" width="900">
 
 ---
 
 ## Analytics Dashboard
 
-_Add Screenshot Here_
+<img src="./screenshots/networkAnalysis.png" width="900">
 
 ---
 
 ## Friend Recommendation Module
 
-_Add Screenshot Here_
+<img src="./screenshots/friendsRecommendation.png" width="900">
 
 ---
 
 ## Graph Density Metrics
 
-_Add Screenshot Here_
+<img src="./screenshots/graphDensity.png" width="900">
 
 ---
 
